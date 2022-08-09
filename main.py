@@ -50,5 +50,12 @@
 # GROUP BY customer_id
 # HAVING;
 
+# --exersise 10
+# --answer 2 rating categories, Grosse Wonderful and more have the most rating
+# SELECT rating, rental_rate, title, rental_rate,rental_duration
+# FROM film;
+
+
+
 
 
